@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "readfromfile.h": "c",
+        "types.h": "c",
+        "createfileorpipe.h": "c"
+    }
+}
